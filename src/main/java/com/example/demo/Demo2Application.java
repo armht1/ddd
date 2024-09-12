@@ -11,3 +11,9 @@ public class Demo2Application {
 	}
 
 }
+
+class dd{
+    public static void main(String[] args) {
+        System.out.println("Hello world");
+    }
+}
